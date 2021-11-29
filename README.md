@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lindsey
-- 👀 I’m interested in data analytics and life sciences. 
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m Lindsey. My background is in neuroscience, and I have a PhD studying the regeneration of neurons in the brain and spinal cord. 
+- 👀 I’m interested in applying data analytics to health and life sciences.
+- 🌱 I’m currently learning Python
 -
 
 <!---
