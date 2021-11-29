@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Lindsey. My background is in neuroscience, and I have a PhD studying the regeneration of neurons in the brain and spinal cord. 
-- 👀 I’m interested in applying data analytics to health and life sciences.
-- 🌱 I’m currently learning Python
--
+- 👋 Hi, I’m Lindsey. 
+- 🧠 My background is in neuroscience, and I have a PhD studying the regeneration of neurons in the brain and spinal cord. 
+-  📈 I'm interested in applying data analytics to health and life sciences.
+- 🌱 I’m currently working on improving my skills with Python.
 
 <!---
 LindseyCaldwell/LindseyCaldwell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
